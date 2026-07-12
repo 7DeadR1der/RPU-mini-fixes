@@ -1,0 +1,2 @@
+{100}{}{Stílus (Alap)}
+{101}{}{Egy alapvetõ sablon srácnak nézel ki. Minden amit el lehet mondani megjelenésedrõl sablonos -- nem mintha ezzel bármi baj is lenne.}

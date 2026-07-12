@@ -1,0 +1,2 @@
+{100}{}{Styl (výchozí)}
+{101}{}{Vypadáš jako nìjaký Typický Výchozí Chlápek. Všechno na tvém vzhledu je typické a bìžné - ne že by na tom bylo nìco špatného.}
