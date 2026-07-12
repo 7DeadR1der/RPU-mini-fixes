@@ -1,5 +1,5 @@
 # RPU-mini-fixes
-This archive contains a couple of fixes for the RPU mods `rpu_rifle_animations.dat` and `rpu_wakizashi_animations.dat`. 
+This archive contains a couple of fixes for the RPU mods `rpu_rifle_animations.dat` and `rpu_wakizashi_animations.dat`. Actual for *RPU v2.4.34*
 https://github.com/BGforgeNet/Fallout2_Restoration_Project
 
 ## EN
